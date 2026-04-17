@@ -1,6 +1,6 @@
 # All Restaurants in Kansas City (Metro), MO-KS, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 441 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `354551` |
 | Location | Kansas City, MO-KS |
 | Category | Restaurants |
-| Full dataset size | 3,208 records |
-| Free sample size | 25 records (0.78%) |
-| Last export | 2026-03-31T12:51:29.527092+00:00 |
+| Full dataset size | 4,415 records |
+| Free sample size | 441 records (9.99%) |
+| Last export | 2026-04-14T13:18:45.384368+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-kansas-city-metro-mo-ks-us-sample-354551/releases/download/sample-latest/beamstation_354551_restaurants-us-kansascitymoks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
