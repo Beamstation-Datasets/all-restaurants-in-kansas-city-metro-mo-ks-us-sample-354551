@@ -1,12 +1,12 @@
 {
-  "export_job_id": "48331671-8f8a-4d12-9f14-decc4c1afdda",
+  "export_job_id": "ac8ceac0-c9e9-4773-9848-b20dd1ac1952",
   "id_short": 354551,
-  "published_at": "2026-04-17T19:20:07Z",
+  "published_at": "2026-04-21T19:19:27Z",
   "repo_name": "all-restaurants-in-kansas-city-metro-mo-ks-us-sample-354551",
   "sample_asset_name": "beamstation_354551_restaurants-us-kansascitymoks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/354551/beamstation_354551_restaurants-us-kansascitymoks_SAMPLE_DIST.csv",
-  "sample_records": 441,
-  "sample_sha256": "2d9ca16eee99e13d9c63453821810e8201d1a28f55a85b12d576b2260e8af720",
-  "sample_size_bytes": 1563549,
-  "total_records": 4415
+  "sample_records": 324,
+  "sample_sha256": "daaaa225acf6b312306d0a241c247adaba22fb2e3ebbb7d8d386817022a16647",
+  "sample_size_bytes": 1190780,
+  "total_records": 3242
 }
